@@ -49,7 +49,8 @@ function test (a){
 test(qwe)
 ```
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwlskqL97fZfGdH_axhH4nRD0DpyRPTY1yNCorWTEMuP5wJCjhfkFTF996kL7FodiUIo&usqp=CAU">
-<br><br><br>
+
+---
 
 [Yandex](https://yandex.by/)
 
