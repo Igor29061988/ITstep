@@ -42,13 +42,13 @@ __Качели все серии подряд.__
 Все доступные в данное время сезоны и все серии «Качели» Вы можете смотреть в хорошем качестве FULL HD 720 и 1080 бесплатно и без регистрации.
  
 ```javascript
-const .qwe=5
+const qwe=5
 function test (a){
     console.log(a)
 }
 test(qwe)
 ```
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwlskqL97fZfGdH_axhH4nRD0DpyRPTY1yNCorWTEMuP5wJCjhfkFTF996kL7FodiUIo&usqp=CAU">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwlskqL97fZfGdH_axhH4nRD0DpyRPTY1yNCorWTEMuP5wJCjhfkFTF996kL7FodiUIo&usqp=CAU">
 
 ---
 
