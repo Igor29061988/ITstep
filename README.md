@@ -1,1 +1,1 @@
-https://Igor29061988.github.io/ITstep/cv
+https://Igor29061988.github.io/ITstep/CV
