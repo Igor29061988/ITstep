@@ -48,10 +48,9 @@ function test (a){
 }
 test(qwe)
 ```
-
-{: style="text-align:right"}
+<p align="right">
 ![Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwlskqL97fZfGdH_axhH4nRD0DpyRPTY1yNCorWTEMuP5wJCjhfkFTF996kL7FodiUIo&usqp=CAU)
-
+</p>
 [Yandex](https://yandex.by/)
 
 [![Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwlskqL97fZfGdH_axhH4nRD0DpyRPTY1yNCorWTEMuP5wJCjhfkFTF996kL7FodiUIo&usqp=CAU)](https://yandex.by/)
