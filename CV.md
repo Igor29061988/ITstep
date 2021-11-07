@@ -48,9 +48,10 @@ function test (a){
 }
 test(qwe)
 ```
-<p align="right">
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwlskqL97fZfGdH_axhH4nRD0DpyRPTY1yNCorWTEMuP5wJCjhfkFTF996kL7FodiUIo&usqp=CAU">
+
 ![Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwlskqL97fZfGdH_axhH4nRD0DpyRPTY1yNCorWTEMuP5wJCjhfkFTF996kL7FodiUIo&usqp=CAU)
-</p>
+
 [Yandex](https://yandex.by/)
 
 [![Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwlskqL97fZfGdH_axhH4nRD0DpyRPTY1yNCorWTEMuP5wJCjhfkFTF996kL7FodiUIo&usqp=CAU)](https://yandex.by/)
